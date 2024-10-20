@@ -1,0 +1,31 @@
+<person>
+	<person ID="1">
+		<name>Sveta</name>
+		<surname>Shnur</surname>
+		<age>33</age>
+		<country>Ukraine</country>
+		<married>true</married>
+		<children>
+			<child>Pavel</child>
+		</children>
+	</person>
+	<person ID="2">
+		<name>Olga</name>
+		<surname>Bondarenko</surname>
+		<age>36</age>
+		<country>Ukraine</country>
+		<married>true</married>
+		<children>
+			<child>Milana</child>
+			<child>Dayana</child>
+		</children>
+	</person>
+	<person ID="3">
+		<name>Oleg</name>
+		<surname>Arapov</surname>
+		<age>60</age>
+		<country>Ukraine</country>
+		<married/>
+		<children/>
+	</person>
+</person>
